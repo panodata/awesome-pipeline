@@ -246,6 +246,7 @@ Extract, transform, load (ETL)
 * [Hydra ETL](https://github.com/bejaouibechir/Hydra) - Declarative ETL engine where pipelines are YAML files validated before they run.
 * [Kiba ETL](http://www.kiba-etl.org) - A data processing & ETL framework for Ruby.
 * [LinkedPipes ETL](https://etl.linkedpipes.com) - Linked Data publishing and consumption ETL tool.
+- [Omniload](https://github.com/panodata/omniload) - Polyglot data loader based on dlt for ETL, warehousing and more. Copy data between any source and any destination. Supports 140+ source/destination adapters. Fast transformations based on Polars expressions.
 * [Pathway](https://github.com/pathwaycom/pathway/) - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
 * [Pentaho Kettle](https://community.hitachivantara.com/s/article/data-integration-kettle) - A plataform that delivers poweful ETL capabilities, using a groundbreaking, metadata-driven approach.
 * [Substation](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
